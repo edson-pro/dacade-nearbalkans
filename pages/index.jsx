@@ -30,7 +30,7 @@ export default function Home() {
             further growth within the NEAR ecosystem.
           </p>
           <div class="mx-auto text-center ">
-            <Link href="#learning">
+            <a href="#learning">
               <svg
                 width={28}
                 height={28}
@@ -46,7 +46,7 @@ export default function Home() {
                   opacity="0.3"
                 />
               </svg>
-            </Link>
+            </a>
           </div>
         </div>
         <div class="hero__gradient hero__gradient--right"></div>
