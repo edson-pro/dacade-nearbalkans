@@ -84,7 +84,7 @@ export default function Home() {
         </div>
         <div className="create-wallet__right h-full relative lg:order-2 order-1 w-full flex justify-center lg:justify-end items-center">
           <img
-            className="lg:w-[290px] z-10 absolute lg:h-[290px] w-[180px] h-[180px]"
+            className="lg:w-[290px] z-10 relative lg:h-[290px] w-[180px] h-[180px]"
             src="/images/m.png"
             alt=""
           />
